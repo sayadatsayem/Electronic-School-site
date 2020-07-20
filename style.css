@@ -1,0 +1,96 @@
+body{
+    font-family: sans-serif;
+}
+.headerfont{
+    font-size: 60px;
+    font-family: poppins;
+    font-weight: bold;
+    font-style: normal;
+    line-height: 50px;
+}
+.banner{
+    height:450px;
+    background-color: #f0fff0;
+}
+.button{
+    border-radius: 40px;
+    padding: 0 30px;
+    padding-bottom: 3px;
+}
+.half{
+    width: 50%;
+    height: 350px;
+    float: left;
+    margin-top: 40px;
+   }
+.logo{
+    width: 150px;
+}
+.card-icon{
+    width: 50px;
+    margin:0 auto;
+    padding-top: 30px;
+    margin-bottom: 35px;
+}
+.card{ 
+    text-align: center;
+    background-color: rgb(221, 255, 255);
+    border-radius: 10px;
+    border: none;
+    height:100%
+}
+.middle{
+    margin-top: 10px;
+}
+.card:hover{
+    background-color: white;
+    border-radius: 10px;
+    border: none;
+    box-shadow:5px 5px 5px 10px rgb(248, 248, 248);
+}
+.icon{
+    width: 40px;
+    margin-top: 35px;
+}
+.bottom{
+    margin-top: 50px;
+}
+.man{
+    width: 180px;
+    margin-left: 250px;
+    margin-top: -10px;
+}
+.text{
+    width:350px;
+    float: left; 
+}
+.f-text p{
+    font-size: 12px;
+}
+.f-text h3{
+    padding-bottom: 5px;
+    font-size: 15px;
+    font-weight: 700;
+}
+.header{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    font-size: 45px;
+    font-family: poppins;
+    font-weight: 700;
+}
+.row{
+    padding-top: 50px;
+}
+.footerbg{
+    margin-top: 60px;
+    background-color: rgb(19, 18, 18);
+    color:white;  
+    height: 300px;
+}
+.Copyright{
+    text-align: center;
+    font-size: 10px;
+    margin-top: 30px;
+}
