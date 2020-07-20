@@ -26,6 +26,10 @@ body{
 .logo{
     width: 150px;
 }
+.banner-img{
+    width:100%;
+    
+}
 .card-icon{
     width: 50px;
     margin:0 auto;
